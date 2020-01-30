@@ -23,4 +23,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+
+Here were the things that I took away from this assignment: 
+- Learned how to create an array of dictionaries 
+- learned how to access an API through the app (although I still need to learn the specifics of URL requests and handling errors) 
+- learned how to typecast items 
+learned about swift optionals 
+- learned how to create a UI table and the necessary steps (adding in the necessary class references, setting the number of rows, setting the sources of the table source correctly, and reloading data at the correct time) 
+- learned how to use dequeueReusableCell in order to save on memory 
+- learned how to edit the story board to create general tiles rather than making tiles for every single movie 
+- learned how to add visuals (app icons, load screen, etc.) 

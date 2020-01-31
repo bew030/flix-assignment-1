@@ -18,9 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<p align="center"><img src="https://github.com/bew030/flix-assignment-1/blob/master/flix-demo.gif" width=250><br> </p> 
 
 ### Notes
 
@@ -33,3 +31,5 @@ learned about swift optionals
 - learned how to use dequeueReusableCell in order to save on memory 
 - learned how to edit the story board to create general tiles rather than making tiles for every single movie 
 - learned how to add visuals (app icons, load screen, etc.) 
+- learned how to use "packages" with CocoaPods 
+- leanred how to navigate through API documentation 
